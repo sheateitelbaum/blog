@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+}
+
+.blogsUl{
+    
+    display: inline-block;
+}
+
+.blogsUl:hover{
+    color:red;
+    cursor: pointer;
+}
+
+#bb{
+    float: right;
+}
+
+h1{
+    text-align: center;
+}
+
+.cud0, .cud1, .cud2,
+.cud3, .cud4 ,.cud5,
+.cud6 ,.cud7 ,.cud8,
+.cud9{
+    color:blue;
+}
+
+div .commentsB{
+    text-decoration: underline;
+}
+
+div .commentsB:hover{
+    color:red;
+    cursor: pointer;
+}
+
+div#post{
+    width:1225px;
+    
+}
